@@ -8,3 +8,5 @@ Goal:
 
 This repository documents my daily learning journey
    
+# AI-Engineer-Journey
+My journey to become an AI Engineer and AI Startup Founder
