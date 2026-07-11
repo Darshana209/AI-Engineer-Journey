@@ -1,0 +1,10 @@
+name=input("Enter your name")
+age=int(input("Enter your age"))
+collage=input("Enter your collage name")
+branch=input("Enter your branch")
+
+print("------------student information--------------")
+print(name)
+print(age)
+print(collage)
+print(branch)
